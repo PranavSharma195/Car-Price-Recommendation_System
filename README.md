@@ -16,14 +16,14 @@
 
  **Step 4:** Create a virtual environment by running the command python -m venv venv and then activate it by using source venv/bin/activate
 
- **Step 5:** Install required libraries by running the command pip install django psycopg2 pandas scikit-learn
+ **Step 5:** Install required libraries.
 
  **Step 6:** Setup the POSTGRES DATABASE.
 
  **Step 7:** Run the application by using python app.py command
 
  **Step 7:** After running step 7 Starting server at http://127.0.0.1:8000/ this message is seen in the terminal
- 
+
  **Step 8:** Finally open the browser and go to http://127.0.0.1:8000/
  
 
